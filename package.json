@@ -1,0 +1,18 @@
+{
+  "name": "first-node",
+  "version": "1.0.0",
+  "description": "Hello World app with nodejs and express - adnanrahic",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "VietThan",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VietThan/TutorialAPI-01.git"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
